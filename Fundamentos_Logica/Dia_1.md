@@ -1,4 +1,4 @@
-# Fundamentos de Programacion
+# Fundamentos de Programacion (Python)
 * Conceptos Basicos
 - Computador:
 *  Un computador es un dispositivo electronico, utilizado para procesar datos y obtener resultados, capaz de ejecutar
