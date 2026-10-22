@@ -52,4 +52,4 @@ Ideal para organizar notas o pasos a seguir en un proyecto:
 ```Markdown
 > Esto es una cita destacada o nota importante.
 ```
-![Imagenes/Captura de pantalla 2026-10-22 165737.png](https://github.com/xAlejo/Apuntes/blob/main/Imagenes/Captura%20de%20pantalla%202026-10-22%20165737.png?raw=true.png)
+![Imagenes](https://github.com/xAlejo/Apuntes/blob/main/Imagenes/Captura%20de%20pantalla%202026-10-22%20165737.png?raw=true.png)
