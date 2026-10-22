@@ -26,3 +26,6 @@ Para controlar la estructura visual de tu texto:
 * Línea divisoria (Horizontal Rule): Tres guiones (---), asteriscos (*) o guiones bajos (___`) en una línea vacía crean una línea horizontal:
 ```
 ---
+# Listas y Tareas (Checklists)
+Ideal para organizar notas o pasos a seguir en un proyecto:
+* Listas con viñetas: Usar asteriscos *, guiones - o signos mas +
