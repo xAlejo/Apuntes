@@ -53,6 +53,6 @@ Ideal para organizar notas o pasos a seguir en un proyecto:
 > Esto es una cita destacada o nota importante.
 ```
 # Imagen
-![Imagenes](https://github.com/xAlejo/Apuntes/blob/main/Imagenes/Captura%20de%20pantalla%202026-10-22%20165737.png)
+![Imagenes](https://github.com/xAlejo/Apuntes/blob/main/Imagenes/Captura%20de%20pantalla%202026-10-22%20165737.png) <br>
 * otra alternativa copiar la imagen y pegarla con ctrl + v
 <img width="643" height="281" alt="Captura de pantalla 2026-10-22 165737" src="https://github.com/user-attachments/assets/6e2eb81e-1f77-418c-afd7-bc3edf9c15b0" />
