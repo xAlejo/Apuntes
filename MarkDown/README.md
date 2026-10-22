@@ -19,9 +19,10 @@ Combinados: ***negrita y cursiva*** -> negrita y cursiva
 # Espacios, Saltos de linea y lineas Divisorias
 Para controlar la estructura visual de tu texto:
 ```Markdown
-Salto de línea / Espacio vertical: <br> (genera un salto de línea limpio, muy útil para separar párrafos o elementos que Markdown junta por defecto).
+* Salto de línea / Espacio vertical: <br> (genera un salto de línea limpio, muy útil para separar párrafos o elementos que Markdown junta por defecto).
 
-Espacio en blanco horizontal: &nbsp; (equivale a un espacio de no separación, útil si necesitas dejar espacios vacíos horizontales).
+* Espacio en blanco horizontal: &nbsp; (equivale a un espacio de no separación, útil si necesitas dejar espacios vacíos horizontales).
 
-Línea divisoria (Horizontal Rule): Tres guiones (---), asteriscos (*) o guiones bajos (___`) en una línea vacía crean una línea horizontal:
+* Línea divisoria (Horizontal Rule): Tres guiones (---), asteriscos (*) o guiones bajos (___`) en una línea vacía crean una línea horizontal:
 ```
+---
