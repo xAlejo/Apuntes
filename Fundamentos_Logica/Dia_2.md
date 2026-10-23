@@ -1,12 +1,12 @@
 # Variables y Tipos de Datos en Python
-1. ¿Qué son los Datos en Informática?
+1. **¿Qué son los Datos en Informática?**
 Los datos son representaciones simbólicas (información o valores) que recibe el computador a través de distintos medios para ser manipulados y procesados mediante algoritmos.
 - Tipos de datos
 - Numericos
 - logicos
 - Cadena de caracteres
 
-2. Tipos de Datos Básicos en Python
+2. **Tipos de Datos Básicos en Python**
 Enteros (int): Números positivos o negativos sin decimales.
 
 * Ejemplos: 12, 0, -2.
@@ -28,12 +28,12 @@ Enteros (int): Números positivos o negativos sin decimales.
 * Ejemplos: 'Hola mundo', "A quien madruga un buen café le ayuda", 'A'.
 
 * Diferencia clave: "22" (string) no es igual a 22 (int). El primero es un texto y el segundo es un número entero con el que se pueden hacer operaciones matemáticas.
-3. Comentarios en Python
+3. **Comentarios en Python**
 * Se inician con el símbolo de numeral o hashtag (#).
 
 * El intérprete de Python ignora estas líneas, por lo que no afectan la ejecución del código.
 
-4. Variables
+4. **Variables**
 * Definición: Es un espacio reservado en la memoria que almacena un dato. Puede imaginarse como una caja etiquetada donde guardas un valor.
 
 * Variabilidad: Su contenido puede cambiar durante la ejecución del programa.
@@ -54,10 +54,10 @@ Enteros (int): Números positivos o negativos sin decimales.
 
 * Se recomienda que no excedan los 15 caracteres y no comiencen con mayúscula.
 
-5. Palabras Reservadas
+5. **Palabras Reservadas**
 Son términos que tienen un significado gramatical o funcional especial en Python y no se pueden utilizar como nombres de variables (por ejemplo, print).
 
-6. Operador de Asignación y Formas de Asignar
+6. **Operador de Asignación y Formas de Asignar**
 El símbolo igual (=) es el operador de asignación. Sirve para crear una variable o modificar su valor si ya existía.
 * Asignación simple:
 ```Python
