@@ -59,3 +59,30 @@ Son términos que tienen un significado gramatical o funcional especial en Pytho
 
 6. Operador de Asignación y Formas de Asignar
 El símbolo igual (=) es el operador de asignación. Sirve para crear una variable o modificar su valor si ya existía.
+* Asignación simple:
+```Python
+nombre = "Alejo"
+edad = 24
+```
+* Reasignación:
+```Python
+edad = 24
+edad = 18  # Reemplaza el valor anterior
+```
+* Asignación en la misma línea (separada por ;):
+```Python
+base = 5; altura = 2; area = base * altura
+```
+* Asignación múltiple:
+```Python
+base, altura, color = 5, 7, "rojo"
+```
+* Asignación del mismo valor:
+```Python
+base = altura = 2.5
+```
+* Asignación por intercambio de valores:
+```Python
+base, altura = altura, base
+```
+Video del dia: https://www.youtube.com/watch?v=dbICRLZ46Qw
