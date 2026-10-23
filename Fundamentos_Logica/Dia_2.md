@@ -28,25 +28,34 @@ Enteros (int): Números positivos o negativos sin decimales.
 * Ejemplos: 'Hola mundo', "A quien madruga un buen café le ayuda", 'A'.
 
 * Diferencia clave: "22" (string) no es igual a 22 (int). El primero es un texto y el segundo es un número entero con el que se pueden hacer operaciones matemáticas.
-3. Tipos de Datos Básicos en Python
-Enteros (int): Números positivos o negativos sin decimales.
+3. Comentarios en Python
+Se inician con el símbolo de numeral o hashtag (#).
 
-Ejemplos: 12, 0, -2.
+El intérprete de Python ignora estas líneas, por lo que no afectan la ejecución del código.
 
-Flotantes o Decimales (float): Números que contienen dígitos después de un punto decimal.
+4. Variables
+Definición: Es un espacio reservado en la memoria que almacena un dato. Puede imaginarse como una caja etiquetada donde guardas un valor.
 
-Ejemplos: 1.9, 0.2, -3.0.
+Variabilidad: Su contenido puede cambiar durante la ejecución del programa.
 
-Nota: En Python se usa punto (.), no coma (,).
+Reglas obligatorias para nombrar variables:
+Pueden contener letras, números y guiones bajos (_).
 
-Lógicos o Booleanos (bool): Representan valores de verdad.
+No deben iniciar con un número (ej. 1tarea es incorrecto; tarea1 es correcto).
 
-Valores: True (Verdadero) y False (Falso).
+No deben usar guion medio (-) (ej. fecha-1 es incorrecto; fecha_1 es correcto).
 
-Nota: Deben escribirse siempre con la primera letra en mayúscula (True, False).
+No pueden ser palabras reservadas del lenguaje.
 
-Cadena de Caracteres (string / str): Texto o expresiones formadas por caracteres delimitados por comillas simples (' ') o dobles (" ").
+Buenas prácticas:
+Elegir nombres descriptivos que representen el dato almacenado (ej. nombre, edad, precio_venta). Evitar nombres genéricos como x o y.
 
-Ejemplos: 'Hola mundo', "A quien madruga un buen café le ayuda", 'A'.
+Para nombres con múltiples palabras, usar estilo camelCase (precioVenta) o snake_case (precio_venta).
 
-Diferencia clave: "22" (string) no es igual a 22 (int). El primero es un texto y el segundo es un número entero con el que se pueden hacer operaciones matemáticas.
+Se recomienda que no excedan los 15 caracteres y no comiencen con mayúscula.
+
+5. Palabras Reservadas
+Son términos que tienen un significado gramatical o funcional especial en Python y no se pueden utilizar como nombres de variables (por ejemplo, print).
+
+6. Operador de Asignación y Formas de Asignar
+El símbolo igual (=) es el operador de asignación. Sirve para crear una variable o modificar su valor si ya existía.
