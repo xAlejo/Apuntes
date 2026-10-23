@@ -29,30 +29,30 @@ Enteros (int): Números positivos o negativos sin decimales.
 
 * Diferencia clave: "22" (string) no es igual a 22 (int). El primero es un texto y el segundo es un número entero con el que se pueden hacer operaciones matemáticas.
 3. Comentarios en Python
-Se inician con el símbolo de numeral o hashtag (#).
+* Se inician con el símbolo de numeral o hashtag (#).
 
-El intérprete de Python ignora estas líneas, por lo que no afectan la ejecución del código.
+* El intérprete de Python ignora estas líneas, por lo que no afectan la ejecución del código.
 
 4. Variables
-Definición: Es un espacio reservado en la memoria que almacena un dato. Puede imaginarse como una caja etiquetada donde guardas un valor.
+* Definición: Es un espacio reservado en la memoria que almacena un dato. Puede imaginarse como una caja etiquetada donde guardas un valor.
 
-Variabilidad: Su contenido puede cambiar durante la ejecución del programa.
+* Variabilidad: Su contenido puede cambiar durante la ejecución del programa.
 
-Reglas obligatorias para nombrar variables:
-Pueden contener letras, números y guiones bajos (_).
+* Reglas obligatorias para nombrar variables:
+* Pueden contener letras, números y guiones bajos (_).
 
-No deben iniciar con un número (ej. 1tarea es incorrecto; tarea1 es correcto).
+* No deben iniciar con un número (ej. 1tarea es incorrecto; tarea1 es correcto).
 
-No deben usar guion medio (-) (ej. fecha-1 es incorrecto; fecha_1 es correcto).
+* No deben usar guion medio (-) (ej. fecha-1 es incorrecto; fecha_1 es correcto).
 
-No pueden ser palabras reservadas del lenguaje.
+* No pueden ser palabras reservadas del lenguaje.
 
-Buenas prácticas:
-Elegir nombres descriptivos que representen el dato almacenado (ej. nombre, edad, precio_venta). Evitar nombres genéricos como x o y.
+* Buenas prácticas:
+* Elegir nombres descriptivos que representen el dato almacenado (ej. nombre, edad, precio_venta). Evitar nombres genéricos como x o y.
 
-Para nombres con múltiples palabras, usar estilo camelCase (precioVenta) o snake_case (precio_venta).
+* Para nombres con múltiples palabras, usar estilo camelCase (precioVenta) o snake_case (precio_venta).
 
-Se recomienda que no excedan los 15 caracteres y no comiencen con mayúscula.
+* Se recomienda que no excedan los 15 caracteres y no comiencen con mayúscula.
 
 5. Palabras Reservadas
 Son términos que tienen un significado gramatical o funcional especial en Python y no se pueden utilizar como nombres de variables (por ejemplo, print).
